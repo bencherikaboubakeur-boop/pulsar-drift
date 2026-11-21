@@ -1,0 +1,12 @@
+{
+  "appId": "com.pulsardrift.app",
+  "appName": "Pulsar Drift",
+  "webDir": "www",
+  "backgroundColor": "#070312",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "auto"
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
